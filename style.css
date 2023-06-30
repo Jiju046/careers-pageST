@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(to right, #abbaab, #ffffff);
+}
+.navbar-brand{
+    margin:5px 30px;
+}
+.nav-button{
+    color: white;
+    background-color: #ee7e38;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.nav-button:hover{
+    background-color: #00bb98;
+    color: #ee7e38;
+}
+.frame{
+    width: 100%;
+    margin-bottom: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.hiring-img{
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.subscribe-button{
+        margin: 30px auto;
+
+}
+
+.role{
+    background-color: white;
+    padding: 20px 10px;
+    margin: 30px auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.place{
+    float: right;
+}
+footer{
+    color: grey;
+    text-align: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+sup{
+    color: red;
+}
+
+
+
